@@ -1,0 +1,14 @@
+---
+title: "Work Experience"
+author: "Nathan Moore"
+date: "7 May 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Mercury Energy
+
+I've spent all of my working career at various roles within Mercury (previously Mighty River Power and Mercury Energy). 
