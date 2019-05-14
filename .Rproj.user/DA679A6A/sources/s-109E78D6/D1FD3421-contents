@@ -1,0 +1,24 @@
+name: "Nathan Moore"
+output_dir: "."
+navbar:
+  title: "Nathan Moore"
+  left:
+    - text: "Work"
+      href: work.html
+    - text: "Frisbee"
+      href: frisbee.html
+    - text: "Blog"
+      href: blags.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:nath@nmoore.nz
+    - icon: fa-github fa-lg
+      href: http://github.com/nmoorenz
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/nmoorenz
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/nmoorenz/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
